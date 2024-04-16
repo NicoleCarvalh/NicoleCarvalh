@@ -10,18 +10,18 @@ I'm Nicole, a software developer who's always excited to embark on coding advent
 - 🎶 When I'm not coding, you can find me strumming my ukulele, knitting cozy scarves, or showering love on my adorable pets.
 
 Let's code, knit, and make some sweet melodies together! 🚀🧶🎵
+<br>
+<br>
 
 <div>
+  <div>
   <a href="https://github.com/NicoleCarvalh?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleCarvalh&layout=compact&theme=transparent&langs_count=10" alt="top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleCarvalh&layout=compact&theme=transparent&langs_count=10" alt="top languages" width="29%"/>
+  </a>
+  
+  <a href="https://github.com/NicoleCarvalh?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=NicoleCarvalh&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" alt="Anurag's GitHub stats" width="50%" />
   </a>
 </div>
 
-<br/>
-
-<div>    
-  <a href="https://github.com/NicoleCarvalh?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=NicoleCarvalh&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" alt="Anurag's GitHub stats" width="48%" />
-  </a>
-</div>
 
