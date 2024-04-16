@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&pause=1000&color=5BD69F&repeat=false&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Nicole)](https://git.io/typing-svg)
 
-I'm Nicole, a software developer who's always excited to embark on coding adventures. Welcome to my GitHub playground!
+My name is Nicole, I am a software developer who's always excited to embark on coding adventures. Welcome to my GitHub playground!
 
 - 🔭 I’m currently working on honing my skills in JavaScript and Python.
 - 🌱 I’m always learning and exploring new technologies to expand my toolkit.
