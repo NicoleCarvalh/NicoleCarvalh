@@ -29,7 +29,7 @@ My name is Nicole, I am a software developer who's always excited to embark on c
 
 ### (づ ᴗ _ᴗ)づ Socials 🦖
 ##
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/nicole-carvalho-souza-a8b45b244) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Nicolecarvalho_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicole-carvalho-souza-a8b45b244) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Nicolecarvalho_) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D6A4F&height=150&section=footer"/>
