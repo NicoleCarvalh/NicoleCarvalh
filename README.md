@@ -18,7 +18,7 @@ My name is Nicole, I am a software developer who's always excited to embark on c
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NicoleCarvalh&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" height="130px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoleCarvalh&theme=vue-dark&hide_border=false" height="130px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleCarvalh&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10" height="130px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleCarvalh&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8" height="130px">
 </div>
 
 ### ヾ( ˃ᴗ˂ )◞ GitHub Trophies 🌱
