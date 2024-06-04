@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=35&pause=1000&color=5BD69F&random=false&width=435&lines=Hey+there!%F0%9F%91%8B+I'm+Nicole)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=35&color=5BD69F&random=false&width=435&lines=Hey+there!%F0%9F%91%8B+I'm+Nicole)](https://git.io/typing-svg)
 
 ## 𖥔˚ About Me ˚𖥔
 My name is Nicole, I am a software developer who's always excited to embark on coding adventures. Welcome to my GitHub playground!<br><br>
