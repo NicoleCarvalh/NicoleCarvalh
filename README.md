@@ -2,13 +2,10 @@
 
 ## 𖥔˚ About Me ˚𖥔
 My name is Nicole, I am a software developer who's always excited to embark on coding adventures. Welcome to my GitHub playground!<br><br>
-𖥔 - I’m currently working on honing my skills in JavaScript and Python.<br>
-୨୧ - I’m always learning and exploring new technologies to expand my toolkit.<br>
-⋆⁺ - Ask me about anything related to software development or my latest coding projects.<br>
+𖥔 - I’m currently working on my skills in JavaScript and Python.<br>
+୨୧ - I’m always learning and exploring new technologies.<br>
 ☾ - How to reach me: Feel free to drop me an email at nicolecarvalho6@gmail.com.<br>
-✧ -  Fun fact: I have a knack for collecting creepy and weird facts, ask me for one!<br>
-☁︎ - When I'm not coding, you can find me strumming my ukulele, knitting cozy scarves, or showering love on my adorable pets.<br>
-.ೃ࿔ - Let's code, knit, and make some sweet melodies together! 🚀🧶🎵
+☁︎ - When I'm not coding, you can find me showering love on my pets and watching Adventure Time.<br>
 
 ### (＾◡＾)っ Tech Stack 💚
 ##
