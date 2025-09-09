@@ -21,7 +21,7 @@ My name is Nicole, I am a software developer who's always excited to embark on c
 ### ヾ( ˃ᴗ˂ )◞ GitHub Trophies 🌱
 ##
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NicoleCarvalh&theme=oldie&no-frame=false&no-bg=false&margin-w=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=NicoleCarvalh&theme=onestar">
 </div>
 
 ### (づ ᴗ _ᴗ)づ Socials 🦖
