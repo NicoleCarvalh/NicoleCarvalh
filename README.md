@@ -1,20 +1,65 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=35&color=5BD69F&random=false&width=435&lines=Hey+there!%F0%9F%91%8B+I'm+Nicole)](https://git.io/typing-svg)
+<br>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=3000&pause=200&color=5BD69F&center=true&width=460&height=80&lines=hi%2C+i'm+Nicole;i+code+things+sometimes;hope+you+like+it+%3A)
+
+</div>
 
 ## 𖥔˚ About Me ˚𖥔
-My name is Nicole, I am a software developer who's always excited to embark on coding adventures. Welcome to my GitHub playground!<br><br>
-𖥔 - I’m currently working on my skills in JavaScript and Python.<br>
-୨୧ - I’m always learning and exploring new technologies.<br>
-☾ - How to reach me: Feel free to drop me an email at nicolecarvalho6@gmail.com.<br>
-☁︎ - When I'm not coding, you can find me showering love on my pets and watching Adventure Time.<br>
+
+Trying my best.
+
+### ᕙ( •̀ ᗜ •́ )ᕗ GitHub Stats 💹
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=NicoleCarvalh&theme=vue-dark&date_format=n%2Fj%5B%2FY%5D" height="160px">
+  <img src="https://github-readme-stats-mu-three-49.vercel.app/api?username=NicoleCarvalh&show_icons=true&theme=nicole_green" height="160px">
+
+</div>
+
+##
 
 ### (＾◡＾)っ Tech Stack 💚
-##
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### (づ ᴗ _ᴗ)づ Socials 🦖
+<div align="center">
+<table border="0">
+  <tr>
+    <td valign="top" width="33%">
+      <img src="https://github-readme-stats-mu-three-49.vercel.app/api/top-langs?username=NicoleCarvalh&theme=nicole_green&hide=html,css,ipynb">
+    </td>
+    <td valign="top" width="33%">
+      <strong>🛠️ Ferramentas & Design</strong><br/><br/>
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+    <td valign="top" width="33%">
+      <strong>💻 Linguagens & Frameworks</strong><br/><br/>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /><br/>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/Thymeleaf-%23005F0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    </td>
+    
+  </tr>
+</table>
+</div>
+
 ##
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicole-carvalho-souza-a8b45b244) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Nicolecarvalho_) 
+
+### (づ ᴗ \_ᴗ)づ Socials 🦖
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicole-carvalho-souza-a8b45b244) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Nicolecarvalho_)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D6A4F&height=150&section=footer"/>
-
