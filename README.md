@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=3000&pause=200&color=5BD69F&center=true&width=460&height=80&lines=hi%2C+i'm+Nicole;i+code+things+sometimes;hope+you+like+it+%3A)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=3000&pause=200&color=5BD69F&center=true&width=500&height=80&lines=hi%2C+i'm+Nicole;i+code+things+sometimes;hope+you+like+it+%3A)
 
 </div>
 
