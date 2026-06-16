@@ -14,9 +14,9 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NicoleCarvalh&theme=vue-dark&date_format=n%2Fj%5B%2FY%5D" height="130px">
-  <img src="https://github-readme-stats-mu-three-49.vercel.app/api?username=NicoleCarvalh&show_icons=true&theme=nicole_green" height="130px">
-   <!-- <img src="https://github-readme-stats-mu-three-49.vercel.app/api/top-langs?username=NicoleCarvalh&theme=nicole_green&hide=html,css,ipynb" height="170px"/> -->
+  <img src="https://streak-stats.demolab.com?user=NicoleCarvalh&theme=vue-dark&date_format=n%2Fj%5B%2FY%5D" height="130px"/>
+  <img src="https://github-readme-stats-mu-three-49.vercel.app/api?username=NicoleCarvalh&show_icons=true&theme=nicole_green" height="130px"/>
+  <img src="https://github-readme-stats-mu-three-49.vercel.app/api/top-langs?username=NicoleCarvalh&theme=nicole_green&hide=html,css,ipynb&langs_count=5" height="130px"/>  
 </div>
 
 <div align="center">
